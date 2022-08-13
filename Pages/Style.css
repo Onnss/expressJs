@@ -1,0 +1,11 @@
+body{
+    color: #364F6B;
+    text-align: center;
+}
+nav{
+    background-color: #F38181;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    display: flex;
+    justify-content: space-evenly;
+}
